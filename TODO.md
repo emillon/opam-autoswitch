@@ -1,10 +1,12 @@
+# Improvements
+
+- catch exceptions and return failures
+
+# Features
+
 # opam autoswitch
 
 does the right thing by itself
-
-# opam autoswitch 4.08
-
-creates a local switch using the latest point release(4.08.1)
 
 # opam autoswitch --oldest
 

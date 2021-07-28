@@ -8,4 +8,5 @@
  (github emillon/opam-autoswitch))
 
 (package
- (name opam-autoswitch))
+ (name opam-autoswitch)
+ (depends bos cmdliner ocaml-version rresult))

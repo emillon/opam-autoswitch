@@ -4,6 +4,10 @@ homepage: "https://github.com/emillon/opam-autoswitch"
 bug-reports: "https://github.com/emillon/opam-autoswitch/issues"
 depends: [
   "dune" {>= "2.8"}
+  "bos"
+  "cmdliner"
+  "ocaml-version"
+  "rresult"
   "odoc" {with-doc}
 ]
 build: [
