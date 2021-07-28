@@ -1,0 +1,4 @@
+(executable
+ (public_name opam-autoswitch)
+ (name opam_autoswitch)
+ (libraries opam_autoswitch_lib))
